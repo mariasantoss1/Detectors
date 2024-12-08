@@ -9,14 +9,10 @@
         </div>
 
         <p class="text-justify text-gray-400 w-[60%] h-full flex items-center justify-center px-5">
-            Somos alunas do Campus Nova Cruz. O nosso projeto tem como objetivo o desenvolvimento de um sistema voltado
-            para
-            a segurança do campus, sendo implementado no laboratório de química. Com esse protótipo, buscamos
-            identificar a
-            presença de fumaça e gases que possam representar riscos durante as atividades laboratoriais. Acreditamos
-            que
-            essa solução simples pode contribuir para tornar o ambiente de estudo mais seguro e monitorado, evitando
-            possíveis acidentes.
+            Somos alunas do Campus Nova Cruz. O nosso projeto tem como objetivo o desenvolvimento de um simulador de
+            detecção de fumaça e gases com fins educacionais, para ensinar os princípios básicos de monitoramento em
+            situações de risco. A plataforma utiliza LEDs virtuais e um controle deslizante, oferecendo uma experiência
+            prática e acessível para reforçar o aprendizado sobre segurança tecnológica.
         </p>
     </div>
 </section>

@@ -26,7 +26,7 @@
 
         <div class="w-[50%] h-full flex items-center justify-center">
             <img src="{{ asset('img/WhatsApp_Image_2024-10-18_at_21.33.07-removebg-preview.png') }}" alt="sensor"
-                width="400">
+                width="600">
         </div>
     </div>
 

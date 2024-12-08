@@ -3,7 +3,7 @@
     <div
         class="h-full w-full bg-gradient-to-t from-black/50 via-black/50 to-transparent flex items-center justify-center">
         <h1 class="text-white text-4xl font-extrabold">
-            DETECTORS: Sistema para detecção de fumaça e gases
+            DETECTORS: Simulador para detecção de fumaça e gases
         </h1>
     </div>
 </section>

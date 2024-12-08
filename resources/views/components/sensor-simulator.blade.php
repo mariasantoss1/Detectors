@@ -28,14 +28,13 @@
 
     <div class="w-[50%] flex items-center flex-col gap-2">
         <img src="{{ asset('img/WhatsApp_Image_2024-10-18_at_21.33.07-removebg-preview.png') }}" alt="simulador"
-            class="w-[60%] ">
+            class="w-[80%] ">
 
         <div class="flex gap-5 items-center mt-10">
-            <!-- LED 1 -->
-            <div id="led1" class="w-12 h-12 rounded-t-[50%] rounded-tr-[50%] bg-gray-500"></div>
-
             <!-- LED 2 -->
             <div id="led2" class="w-12 h-12 rounded-t-[50%] rounded-tr-[50%] bg-gray-500"></div>
+            <!-- LED 1 -->
+            <div id="led1" class="w-12 h-12 rounded-t-[50%] rounded-tr-[50%] bg-gray-500"></div>
         </div>
     </div>
 </div>
